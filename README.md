@@ -1,6 +1,3 @@
-# Analyze-A-B-Test-Results-
-Sure, here is a readme file for the project you linked:
-
 # Analyze A/B Test Results
 
 This project analyzes the results of an A/B test to determine which version of a website is more effective. The A/B test was conducted by comparing two versions of the website's homepage. The first version of the homepage had a call to action button that was located in the top right corner of the page. The second version of the homepage had a call to action button that was located in the middle of the page.
